@@ -22,7 +22,7 @@
     <Text Include="head.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="栈-回文.cpp" />
+    <ClCompile Include="冒泡排序.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F808D4E4-BF3D-4945-812D-AFC836727977}</ProjectGuid>
